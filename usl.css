@@ -1,0 +1,182 @@
+ 
+.rin{
+  background:rgb(71, 70, 70);
+  padding: 25px; 
+  border-radius: 10px;
+  color:#fff
+}
+
+
+.ven{
+ max-width: 750px;
+ margin:auto;
+ 
+ 
+}
+.pik{
+  background:rgb(71, 70, 70);
+  color:#fff;
+  border-radius: 10px;
+  margin-top: 45px;
+  padding: 20px
+}
+.pik p {
+  font-size: 140%;
+  font-weight: 700 ;
+  padding:1px 1px 1px 1px;
+  margin:7px 5px 5px 7px; 
+
+}
+#tn{
+  padding:15px;
+  margin:10px;
+  border-radius: 10px;
+}
+
+.kin{
+  width: 400px;
+  border-radius: 15px;
+
+}
+.ut{
+  padding:5px;
+}
+.nik{
+   
+  font-weight:  700 ; 
+  background:rgb(71, 70, 70) ;
+  max-width: 725px;
+  padding:20px 15px;
+  border-radius: 15px;
+  font-size:150% ;
+  margin-top: 20px;
+  color:#fff;
+  
+}
+.son {
+    background: rgb(177, 156, 170);
+    
+  }
+label,
+input[type=text] {
+        display: inline-block;
+        vertical-align: middle;
+}
+label{
+     width: 5%;
+
+}
+  input[type=text] {
+      width: 21%;
+  }
+.hop input{
+  width: 21%;
+    
+  }
+.sprin h2{
+  text-align:center;
+  background: rgb(71, 70, 70) ;
+  width: 100%; 
+  left:0px;
+  padding: 60px 80px 80px 60px;
+font-size: 45px;
+color:rgb(71, 70, 70) ;
+position: absolute;
+}
+
+
+.rit label{
+  display: block;
+  font-size: 16px;
+  color:#151316;
+}
+
+ .rit input,
+ .rit textarea {
+   width: 100%;
+   box-sizing:border-box;
+   border:none;
+   border-bottom: 1px solod #ccc;
+   color:#000;
+   padding: 15px 0 10px;
+   outline: none;
+   font-family:inherit;
+ }
+ .wov input {
+   margin-top: 15% ;
+   margin-left:2% ;
+   width: 15%;
+   background:#111;
+   color:#fff;
+   padding: 20px 20px;
+   border-radius: 5px;
+   cursor:pointer;
+ }
+ .wov:hover{
+   opacity: 0.9;
+ }
+  
+ .wov input {
+font-size: 16px;
+ }
+  
+
+ 
+
+pz{
+  position: relative;  
+  border:4px solid black;
+  margin-top: 40px;
+  padding: 20px;
+  height: 300px;
+
+}  
+
+.box{
+  position:fixed;
+  top:0;
+  left:0px;
+  width: 100%;
+  height:50px;
+  background: rgb(194, 23, 137);
+}
+
+.r2{
+  margin-top:25px;
+}
+.kontr{
+  
+  border: 4px solid black;
+  margin-top: 180px;
+  padding: 20px;
+  height: 300px;
+
+}
+.xi{
+  font-size: 36px;
+  margin-top: 290px;
+  margin-left: 150px;
+  
+  
+
+}
+.dop{
+color:hotpink;
+}
+
+.am h2{
+  margin-left:4px;
+  font-size: 33px;
+  color:rgb(105, 95, 95);
+}
+.am{
+  border-radius: 10px;
+  padding:0px 1px 0px 1px ;
+  border:25px ;
+  background:#fff;
+  width:31%;
+  left:80px;
+  margin-left:70px;
+  
+ 
+}
